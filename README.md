@@ -21,8 +21,8 @@
 Clone the project and access the folder.
 
 ```bash
-$ git clone git@github.com:Thilourenco/ignite-shop.git
-$ cd ignite-shop
+$ git clone git@github.com:ThiLourenco/ignite-shop-2.0.git
+$ cd ignite-shop-2.0
 ```
 
 - [Node.js](https://nodejs.org/en/)
